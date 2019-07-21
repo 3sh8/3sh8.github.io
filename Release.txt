@@ -1,6 +1,8 @@
-<!DOCTYPE html>
-<html>
-<h1>Hello world</h1>
-<p>This is a cydia repo</p>
-</body>
-</html>
+Origin: Piggy's Private Repo 
+Label: 3SH8 Repo 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: HACK Repo 
